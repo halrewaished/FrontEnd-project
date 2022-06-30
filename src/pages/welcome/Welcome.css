@@ -1,0 +1,11 @@
+.welcome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+.content {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  text-align: center;
+}

@@ -1,0 +1,26 @@
+.title {
+  font-size: 4vw;
+  height: 10vh;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+  height: 30vh;
+  width: 100%;
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.inputs {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.search,
+.select {
+  width: 43%;
+}
